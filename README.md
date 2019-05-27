@@ -16,6 +16,7 @@ You may contact me and let me know appropriate RGB colors for each of your resou
 
 # Changelog
 
+- **1.1.2:** Version bump for 0.16.x
 - **1.1.1:** Version bump for 0.15.x
 - **1.1:** Added support for Bob's, Angel's, and Dark Matter Replicator.
 - **1.0:** Initial release.
