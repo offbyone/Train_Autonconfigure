@@ -1,6 +1,6 @@
 {
 	"name": "Train_Autoconfigure",
-	"version": "1.1.4",
+	"version": "1.1.5",
 	"title": "Train Autoconfigure",
 	"author": "offby1",
 	"description": "Sets train colors based on their contents, initially. Eventually anything else I think might be neat.",
